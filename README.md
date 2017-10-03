@@ -8,3 +8,7 @@ Sadece ftp atıp linke girmeniz yeterli olacaktır. Gerekli yerleri kendiniz dü
 ``Zip olarak indirip masaüstüne çıkartın``
 ``Çıkarttığınız dosyaları sunucunuza yükleyin (önceden dosya varsa yedekleyin)``
 ``Kurulum tamam. Site adresinizi girmeniz yeterli olacaktır``
+
+
+
+Demo : https://dongu-yapim.github.io/index-dy/
